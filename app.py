@@ -6,4 +6,4 @@ st.write('new thing')
 
 st.write('new new thing')
 
-st.write(st.secrets('new_secret'))
+st.write(st.secrets['new_secret'])
